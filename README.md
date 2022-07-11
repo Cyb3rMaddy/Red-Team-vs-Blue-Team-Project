@@ -1,6 +1,7 @@
 # Red-Team-vs-Blue-Team-Project
 
-Attack!
+###Attack!
+
 Today, you will act as an offensive security Red Team to exploit a vulnerable Capstone VM.
 You will need to use the following tools, in no particular order:
 
@@ -62,7 +63,7 @@ Find and capture the flag.
 After you have captured the flag, show it to your instructor.
 Be sure to save important files (e.g., scan results) and take screenshots as you work through the assessment. You'll use them again when creating your presentation.
 
-Incident Analysis with Kibana
+###Incident Analysis with Kibana
 
 Instructions
 Even though you already know what you did to exploit the target, analyzing the logs is still valuable. It will teach you:
